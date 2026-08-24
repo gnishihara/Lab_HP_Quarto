@@ -8,25 +8,4 @@ description: "藻場の保護や回復に関心はありませんか？"
 
 水圏植物生態学研究室では，海藻や海草がつくる生態系（藻場）の基礎科学と応用科学についての研究をしています。とくに，Blue Carbon・総一次生産量に関する研究，藻場回復の関する調査研究と技術開発に注目しています。
 
-このサイトで，研究室で行なう研究に必要な情報や，講義ノートを公開しています。Rのコードや便利なURL，講義のスライドデッキなどのアクセスはナビゲーションメニューからおねがいします。
-
 **HPはつねに未完成です。**
-
----
-
-### Laboratory Members
-* Greg
-* Mehedi
-* Alifro
-* Jean Rose
-* Takehiro
-* Taishun
-* Tomoyuki
-* Hikaru
-* Nozomu
-* Yuka
-* Hotaka
-* Taichi
-* Koh
-* Akito
-* Yoshiro

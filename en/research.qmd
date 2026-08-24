@@ -1,0 +1,36 @@
+---
+title: "Research Activities"
+---
+
+In order to provide sustainable and safe food, we conduct research to protect the environments where coastal organisms live and restore them to a healthy state. 
+Specifically, our activities are centered around the following two pillars.
+
+At the Laboratory of Aquatic Plant Ecology at Nagasaki University, we are working on the restoration and protection of coastal ecosystems to ensure the continuous provision of sustainable and safe food resources. 
+To achieve this, we focus on two main research areas targeting macrophyte beds (seaweeds and seagrasses) affected by environmental pollution.
+
+First, we are developing and improving technologies to evaluate the health of these ecosystems, often called underwater "forests."
+By quantifying the area, density, and biodiversity of the ecosystem, it becomes possible to detect the early signs of stress and degradation. 
+In particular, we are investigating how pollution from marine debris (such as plastic waste) brings about changes in the structure and function of macrophyte beds.
+
+Next, we are promoting basic research to restore and protect these ecosystems. We aim to elucidate the mechanisms by which macrophyte beds absorb atmospheric carbon dioxide and store it as "blue carbon," and to improve the precision and accuracy of carbon storage estimates. The goal of our research is to correctly evaluate the carbon fixation capacity of macrophyte beds and clarify their role in mitigating climate change.
+
+To support this research, more than half of the laboratory's activities consist of fieldwork. We regularly measure the extent and density of macrophyte beds and collect marine debris and sediments that accumulate there. In the laboratory, we analyze the organic carbon content in sediments and seawater using experimental equipment manufactured by Elementar and Shimadzu Corporation. By combining field observations, laboratory analyses, and data analysis, we strive to comprehensively understand the processes of decline and recovery in macrophyte beds.
+
+In this laboratory, as an initiative related to blue carbon, we evaluate the carbon fixation capacity of seaweed aquaculture farms. In particular, cultivated seaweeds absorb atmospheric CO~2~ during their growth process and have the potential to store carbon in the form of biomass and sediments, which is attracting attention as a climate change mitigation strategy.
+
+One of the main achievements of our research group, [Sato et al. (2022) *Frontiers in Marine Science*](https://doi.org/10.3389/fmars.2022.861932), quantitatively evaluated the amount of carbon fixation in Japanese seaweed aquaculture farms. This research demonstrated that, depending on how the harvested seaweed biomass is utilized, aquaculture farms can function as a substantial carbon sink. Such findings pave the way for seaweed aquaculture to be formally incorporated into future international greenhouse gas emission calculations and policies.
+
+Furthermore, a Nagasaki University press release dated September 18, 2024, announced the adoption of a Core Research for Evolutionary Science and Technology (CREST) project represented by this laboratory. This project is the first CREST project for Nagasaki University, and the research is being conducted collaboratively by Professor Gregory Nishihara (Nagasaki University), Professor Teruko Konishi (University of the Ryukyus), and Riken Food Co., Ltd.
+
+In this project, focusing on Net Ecosystem Production (NEP), we will target wakame (Miyagi Prefecture) and Okinawa mozuku (Okinawa Prefecture) aquaculture farms to evaluate their Carbon Dioxide Removal (CDR) capacity with high precision by meticulously monitoring the dynamics of CO~2~ absorbed and released by the seaweeds. We also aim to track the behavior of organic matter, such as polysaccharides, released by the seaweeds to comprehensively clarify their effectiveness as blue carbon. This is expected to contribute to the institutional design of carbon credits and the carbon neutralization of the seaweed industry.
+
+---
+
+## Macrophyte Bed Ecosystems
+In Japan, *isoyake* (desertification of marine ecosystems or sea urchin barrens) is progressing, and phenomena similar to *isoyake* are occurring worldwide. The massive increase in herbivorous organisms is considered to be the main cause of *isoyake*. We are working on researching the processes that cause *isoyake* and the processes by which the ecosystem recovers.
+
+## Blue Carbon
+It is only recently that carbon fixed by marine ecosystems has come to be called "Blue Carbon." We are also researching how to conceptualize and observe blue carbon from the perspective of fisheries science.
+
+## Marine Debris
+What will happen to our country's marine debris problem in the future? Collection and processing technologies have barely evolved in 50 years, and research is primarily focused on quantitative surveys and biological impact assessments. Because the impact of debris on macrophyte bed ecosystems remains unclarified, we aim to conserve and sustainably utilize macrophyte beds by developing new monitoring methods and conducting impact assessments.

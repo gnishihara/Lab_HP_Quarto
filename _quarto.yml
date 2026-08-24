@@ -4,20 +4,22 @@ project:
 
 website:
   title: "長崎大学 | 水圏植物生態学研究室"
+  favicon: "assets/favicon.ico"
   description: "研究室HP"
   google-analytics: "G-4H79Y0YFP4"
   navbar:
+    logo: "assets/images/logo001.svg"
     left:
-      - text: "Home"
+      - text: "ホーム"
         href: index.qmd
       - text: "ラボについて"
         href: about.qmd
-      - text: "連絡先"
-        href: contact.qmd
       - text: "研究"
         href: research.qmd
       - text: "論文集"
         href: papers.qmd
+      - text: "連絡先"
+        href: contact.qmd
     right:
       - text: "English"
         href: en/index.qmd

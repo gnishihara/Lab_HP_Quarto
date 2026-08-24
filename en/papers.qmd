@@ -1,0 +1,46 @@
+---
+title: "Publication List"
+---
+
+```{r}
+#| echo: false
+#| results: asis
+#| message: false
+#| warning: false
+
+if (!requireNamespace("RefManageR", quietly = TRUE)) {
+  install.packages("RefManageR")
+}
+library(RefManageR)
+
+bib <- ReadBib("scopus.bib", check = FALSE)
+bib_df <- as.data.frame(bib)
+
+# Sort descending by year
+bib_df <- bib_df[order(as.numeric(bib_df$year), decreasing = TRUE), ]
+
+# Loop and print by year
+current_year <- ""
+for (i in seq_len(nrow(bib_df))) {
+  row <- bib_df[i, ]
+  if (!identical(row$year, current_year)) {
+    current_year <- row$year
+    cat(sprintf("\n\n## %s\n\n", current_year))
+  }
+
+  doi_link <- ifelse(
+    !is.null(row$doi) && !is.na(row$doi),
+    sprintf(" [DOI: %s](https://doi.org/%s)", row$doi, row$doi),
+    ""
+  )
+
+  cat(sprintf(
+    "* **%s** (%s). %s. *%s*%s\n",
+    row$author,
+    row$year,
+    row$title,
+    ifelse(!is.na(row$journal), row$journal, ""),
+    doi_link
+  ))
+}
+```

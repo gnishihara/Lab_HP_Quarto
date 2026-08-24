@@ -1,0 +1,17 @@
+website:
+  navbar:
+    logo: "assets/images/about.png"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: papers.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "日本語"
+        href: index.qmd

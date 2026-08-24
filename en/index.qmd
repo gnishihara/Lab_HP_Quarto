@@ -3,28 +3,9 @@ title: "Welcome to the Laboratory of Aquatic Plant Ecology"
 description: "Interested in protecting and restoring seaweed ecosystems?"
 ---
 
-### About Us
-Terrestrial ecosystems such as forests and meadows are known for high biodiversity and the ability to sequester carbon dioxide. Seaweeds and seagrasses create similar ecosystems in the marine environment.
+### About the laboratory
+Terrestrial plants create ecosystems such as meadows and forests, which are known as areas with high biodiversity and high carbon dioxide fixation capabilities. Seaweeds and seagrasses create similar ecosystems in the ocean, much like underwater forests and meadows.
 
-At the Laboratory of Aquatic Plant Ecology, we are interested in studying ecosystems created by seaweeds and seagrasses from both an applied and basic science perspective. 
+At the Laboratory of Aquatic Plant Ecology, we conduct basic and applied scientific research on the ecosystems (macrophyte beds) created by seaweeds and seagrasses. In particular, we focus on research related to Blue Carbon and gross primary production, as well as investigative research and technological development for the restoration of these ecosystems.
 
-**This HP is still under construction.**
-
----
-
-### Laboratory Members
-* Greg
-* Mehedi
-* Alifro
-* Jean Rose
-* Takehiro
-* Chiyuki
-* Tomoyuki
-* Hikaru
-* Nozomu
-* Yuka
-* Hotaka
-* Taichi
-* Yoshiro
-* Koh
-* Akito
+**This website is always under construction.**
