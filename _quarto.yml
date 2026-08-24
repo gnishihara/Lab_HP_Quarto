@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "長崎大学 | 水圏植物生態学研究室"
+  description: "研究室HP"
+  google-analytics: "G-4H79Y0YFP4"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "ラボについて"
+        href: about.qmd
+      - text: "連絡先"
+        href: contact.qmd
+      - text: "研究"
+        href: research.qmd
+      - text: "論文集"
+        href: papers.qmd
+    right:
+      - text: "English"
+        href: en/index.qmd
+
+format:
+  html:
+    toc: true
+    lang: ja

@@ -1,0 +1,22 @@
+# Quarto generated files
+/.quarto/
+/_site/
+
+# R and RStudio specific files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Execution cache and intermediate files
+/*_cache/
+/*_files/
+*.utf8.md
+*.knit.md
+*.html
+
+# OS generated files
+.DS_Store
+Thumbs.db
+**/*.quarto_ipynb
