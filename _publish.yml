@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "e18698dd-f40a-447f-a9f2-ff0b67a9e305"
+      url: "https://nagaremo.jp"
