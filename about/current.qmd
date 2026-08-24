@@ -1,0 +1,180 @@
+---
+title: "研究室メンバー | Lab members"
+---
+
+### Gregory N. Nishihara | 西原直希(教授)
+:::{.panel-tabset}
+## 日本語
+福島国際研究教育機構藻類応用生態学・ブルーイノベーション研究ユニット・サブユニットリーダー,
+鹿児島大学連合農学研究科（2004 PhD）, University of Hawaii at Manoa (1996 BSc)。
+2018 Marine Pew Fellow, 詳細は researchmap へ <a class="outlink" href="https://researchmap.jp/nagaremo">https://researchmap.jp/nagaremo</a>
+
+## English
+Sub-unit Leader, Algal Applied Ecology and Blue Innovation Research Unit, Fukushima Institute for Research, Education and Innovation (F-REI); United Graduate School of Agricultural Sciences, Kagoshima University (2004 PhD); University of Hawaii at Manoa (1996 BSc).
+2018 Pew Marine Fellow. For details, visit researchmap: <a class="outlink" href="https://researchmap.jp/nagaremo">https://researchmap.jp/nagaremo</a>
+:::
+
+### ROCKY Mehedi | メヘディ - 特任研究員 (PD)
+:::{.panel-tabset}
+## 日本語
+私は、海洋微生物学および生態学、分子生物学、ゲノミクス、メタゲノミクスを専門としており、特に海洋大型植物（海草や海藻など）に焦点を当てています。 研究テーマとしては、海洋大型植物による炭素隔離、特にブルーカーボンとしての貯蔵機能に関心を持っています。 現在は、海草・海藻藻場におけるCO₂濃度のロガーによる評価と測定に取り組んでいます。 また、プラスチックごみが海洋大型植物に及ぼす影響、特にそれが沿岸生態系における生物地球化学的プロセスにどのような変化をもたらすかにも強い関心を持っています。
+
+## English
+I specialize in marine microbiology and ecology, molecular biology, genomics, and metagenomics, with a particular focus on marine macrophytes (such as seagrasses and seaweeds). My research interests include carbon sequestration by marine macrophytes, especially their storage function as blue carbon. Currently, I am working on the evaluation and measurement of CO₂ concentrations in seagrass and seaweed beds using data loggers. I also have a strong interest in the impact of plastic debris on marine macrophytes, particularly how it alters biogeochemical processes in coastal ecosystems.
+:::
+
+### 日野出 賢二郎 | Hinode Kenjiro - 特任研究員 (PD)
+:::{.panel-tabset}
+## 日本語
+調整中
+
+## English
+Under construction
+:::
+
+### MALDINI Alifro | マルディニ・アリフロ - 博士後期課程 (D2)
+:::{.panel-tabset}
+## 日本語
+海洋ゴミは、アマモの生長と生産性に影響を与えると考えられます。 そのため、海洋ゴミがアマモ場の生産量にどのように影響するかを理解し、アマモ場の炭素吸収能力に影響を与える要因を明らかにすることが目的です。
+
+## English
+Marine debris is thought to affect the growth and productivity of eelgrass. Therefore, my objective is to understand how marine debris impacts eelgrass bed production and to clarify the factors affecting the carbon sequestration capacity of eelgrass beds.
+:::     
+
+### 小坂 威博 | Kosaka Takehiro - 博士後期課程 (D2)
+:::{.panel-tabset}
+## 日本語
+炭酸カルシウムを主成分とする特殊なセラミックによる沿岸生態系への影響を評価します。 このセラミックは底質に直接作用するため、特にアマモのように根を張る海草はこの影響を受けると考えられます。 この技術が純一次生産量を向上させることで、ブルーカーボンへの貢献も期待できます。
+
+## English
+I am evaluating the impact of a special ceramic, primarily composed of calcium carbonate, on coastal ecosystems. Since this ceramic acts directly on the substrate, rooted seagrasses like eelgrass are particularly expected to be affected. By improving net primary production through this technology, we also expect to contribute to blue carbon.
+:::
+
+
+### 青田 智之 | Aota Tomoyuki- 海洋環境科学コース (D1)
+:::{.panel-tabset}
+## 日本語
+海藻や海草の群落（藻場）は、魚類を含むさまざまな海洋生物に生息地を提供しています。 藻場の構造は、沿岸生態系における生息地の形成に寄与する重要な要因です。 現在、私は五島列島の有川湾において、大型藻類群集の構造と魚類群集の多様性との関連について研究しています。 
+
+## English
+Seaweed and seagrass communities (macrophyte beds) provide habitats for various marine organisms, including fish. The structure of these beds is an important factor contributing to habitat formation in coastal ecosystems. Currently, I am researching the relationship between the structure of macroalgal communities and the diversity of fish communities in Arikawa Bay, Goto Islands. 
+
+:::
+
+### 膳場 智幸 | Zemba Chiyuki- 海洋生産管理学コース (D1)
+:::{.panel-tabset}
+## 日本語
+調整中
+
+## English
+Under construction
+:::
+
+
+### 野田 勉 | Noda Tsutomu - 海洋生産管理学コース (D1)
+:::{.panel-tabset}
+## 日本語
+調整中
+
+## English
+Under construction
+:::
+
+
+### 河田 優人 | Kawata Yuto - 海洋生産管理学コース (D1)
+:::{.panel-tabset}
+## 日本語
+調整中
+
+## English
+Under construction
+:::
+
+
+### Maquirang, Jean Rose H. | マキラン・ジーン・ローズ - 海洋生産管理学コース (M2)
+:::{.panel-tabset}
+## 日本語
+ブルーカーボン生態系としての海藻（*Cladosiphon okaramanus*）養殖の可能性に関する研究は、ほとんど未開拓のままです。 そのため、私の研究の焦点は、海藻養殖による炭素隔離のダイナミクスと気候変動緩和への貢献を理解することにあります。
+
+## English
+Research on the potential of seaweed (*Cladosiphon okamuranus*) aquaculture as a blue carbon ecosystem remains largely unexplored. Therefore, the focus of my research is to understand the dynamics of carbon sequestration through seaweed aquaculture and its contribution to climate change mitigation.
+:::
+
+
+### 安斎 輝 | Ansai Hikaru - 海洋生産管理学コース (M2)
+:::{.panel-tabset}
+## 日本語
+藻場は多くの二酸化炭素を吸収し、その一部を溶存態有機炭素(DOC)として放出しています。藻場のDOC動態を理解することはブルーカーボンを理解するうえで非常に重要です。 本研究では様々な植生の藻場のDOCの量、組成について研究を行い、植生の違いによってDOCの量、組成に違いがあるのかを明らかにすることを目的としています。
+
+## English
+Macrophyte beds absorb a large amount of carbon dioxide and release a portion of it as dissolved organic carbon (DOC). Understanding DOC dynamics in these beds is crucial for understanding blue carbon. The objective of this study is to investigate the amount and composition of DOC in macrophyte beds with various vegetation types, to clarify whether differences in vegetation lead to differences in DOC quantity and composition.
+:::
+
+### 高島 望 | Takashima Nozomu - 海洋生産管理学コース (M2)
+:::{.panel-tabset}
+## 日本語
+地下環境に埋没した海洋ごみが、アマモの生活史や藻場の拡大に及ぼす影響について研究しています。
+
+## English
+I am researching the effects of marine debris buried in subterranean environments on the life history of eelgrass and the expansion of seagrass beds.
+:::
+
+
+### 植村 友香 | Uemura Yuka - 海洋生物科学コース (M1)
+:::{.panel-tabset}
+## 日本語
+堆積物に存在するプラスチックごみが堆積物中のＴＯＣにどのような影響を及ぼすかを研究しています。
+
+## English
+I am researching how plastic debris present in sediments affects Total Organic Carbon (TOC) within the sediments.
+:::
+
+
+### 木村 穂高 | Kimura Hotaka - 海洋生物科学コース (M1)
+:::{.panel-tabset}
+## 日本語
+海洋ゴミの蓄積位置とその環境要因について調査しています。
+
+## English
+I am investigating the accumulation locations of marine debris and their environmental factors.
+:::
+
+
+### 加藤 大智 |Kato Taichi - 海洋環境科学コース (M1)
+:::{.panel-tabset}
+## 日本語
+堆積物中の海藻バイオマス量とTOC・eDNAは比例するかどうかを研究しています。 未定
+
+## English
+I am researching whether the amount of seaweed biomass in sediments is proportional to TOC and eDNA. Pending
+:::
+
+
+### 田中 瑛大 | Tanaka Akito - 海洋 (B4)
+:::{.panel-tabset}
+## 日本語
+調整中
+
+## English
+Under construction
+:::
+
+
+### 中西 洸 |  Nakanishi Koh- 海洋 (B4)
+:::{.panel-tabset}
+## 日本語
+調整中
+
+## English
+Under construction
+:::
+
+
+### 中辻 吉郎 | Nakatsuji Yoshiro - 海洋 (B4)
+:::{.panel-tabset}
+## 日本語
+調整中
+
+## English
+Under construction
+:::

@@ -2,9 +2,12 @@
 title: "Any questions?"
 ---
 
-**海洋未来イノベーション機構・環東シナ海環境資源研究センター**
-Institute for East China Sea Research, Organization for Marine Science and Technology
+**長崎大学海洋未来イノベーション機構・環東シナ海環境資源研究センター**
 
-* **Address:** 851-2213 長崎県長崎市多比良町 1151-7
+Institute for East China Sea Research, Organization for Marine Science and Technology, Nagasaki University
+
+* **Address:** 
+  - 〒851-2213 長崎県長崎市多比良町 1551-7
+  - 1551-7 Taira-machi, Nagasaki City, Nagasaki, Japan 851-2213
 * **Email:** greg (at) nagasaki-u.ac.jp
 * **Phone:** +81 095 850 7311

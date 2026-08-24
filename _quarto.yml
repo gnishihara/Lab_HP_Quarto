@@ -7,24 +7,36 @@ website:
   favicon: "assets/favicon.ico"
   description: "研究室HP"
   google-analytics: "G-4H79Y0YFP4"
-  navbar:
-    logo: "assets/images/logo001.svg"
-    left:
-      - text: "ホーム"
+  sidebar:
+    style: "docked"
+    search: true
+    logo: "assets/images/logo001.png"
+    contents:
+      - text: "ホーム | Home"
         href: index.qmd
-      - text: "ラボについて"
-        href: about.qmd
-      - text: "研究"
-        href: research.qmd
-      - text: "論文集"
+      
+      - section: "ラボについて | About"
+        contents:
+        - about/current.qmd
+        - about/alumni.qmd
+
+      - section: "研究 | Research"
+        contents:
+          - research/index.qmd
+          
+      - text: "論文集 | Publications"
         href: papers.qmd
-      - text: "連絡先"
+      
+      - text: "連絡先 | Contact"
         href: contact.qmd
-    right:
-      - text: "English"
-        href: en/index.qmd
 
 format:
   html:
+    theme: 
+      light: flatly
+      dark: darkly
+    highlight-style:
+      light: github
+      dark: monokai
     toc: true
     lang: ja

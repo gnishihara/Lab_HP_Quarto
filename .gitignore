@@ -20,3 +20,7 @@
 .DS_Store
 Thumbs.db
 **/*.quarto_ipynb
+
+# Ignore the images in the raw-images folder
+/raw-images/*
+!/raw-images/*.R
