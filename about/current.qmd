@@ -32,7 +32,7 @@ I specialize in marine microbiology and ecology, molecular biology, genomics, an
 Under construction
 :::
 
-### MALDINI Alifro | マルディニ・アリフロ - 博士後期課程 (D2)
+### MALDINI Alifro | マルディニ・アリフロ - 海洋未来科学コース (D2)
 :::{.panel-tabset}
 ## 日本語
 海洋ゴミは、アマモの生長と生産性に影響を与えると考えられます。 そのため、海洋ゴミがアマモ場の生産量にどのように影響するかを理解し、アマモ場の炭素吸収能力に影響を与える要因を明らかにすることが目的です。
@@ -41,7 +41,7 @@ Under construction
 Marine debris is thought to affect the growth and productivity of eelgrass. Therefore, my objective is to understand how marine debris impacts eelgrass bed production and to clarify the factors affecting the carbon sequestration capacity of eelgrass beds.
 :::     
 
-### 小坂 威博 | Kosaka Takehiro - 博士後期課程 (D2)
+### 小坂 威博 | Kosaka Takehiro - 海洋未来科学コース (D2)
 :::{.panel-tabset}
 ## 日本語
 炭酸カルシウムを主成分とする特殊なセラミックによる沿岸生態系への影響を評価します。 このセラミックは底質に直接作用するため、特にアマモのように根を張る海草はこの影響を受けると考えられます。 この技術が純一次生産量を向上させることで、ブルーカーボンへの貢献も期待できます。
@@ -51,7 +51,7 @@ I am evaluating the impact of a special ceramic, primarily composed of calcium c
 :::
 
 
-### 青田 智之 | Aota Tomoyuki- 海洋環境科学コース (D1)
+### 青田 智之 | Aota Tomoyuki- 海洋未来科学コース (D1)
 :::{.panel-tabset}
 ## 日本語
 海藻や海草の群落（藻場）は、魚類を含むさまざまな海洋生物に生息地を提供しています。 藻場の構造は、沿岸生態系における生息地の形成に寄与する重要な要因です。 現在、私は五島列島の有川湾において、大型藻類群集の構造と魚類群集の多様性との関連について研究しています。 
@@ -61,37 +61,36 @@ Seaweed and seagrass communities (macrophyte beds) provide habitats for various 
 
 :::
 
-### 膳場 智幸 | Zemba Chiyuki- 海洋生産管理学コース (D1)
+### 膳場 智幸 | Zemba Chiyuki- 海洋未来科学コース (D1)
 :::{.panel-tabset}
 ## 日本語
-調整中
+藻場に生息する葉上無脊椎動物は，食物網の連結因子であり栄養循環の仲介者となりますが，海藻藻場の消長に伴う群集の動態は未解明な点が多くあります。私は，長崎県沿岸の複数地点で，海藻と葉上動物双方の生物多様性の関係について研究を進めています。
 
 ## English
-Under construction
+Epiphytic invertebrates inhabiting macroalgal beds serve as vital links in the food web and mediators of nutrient cycling; however, much remains unknown about their community dynamics in response to the rise and decline of these seaweed beds. I am currently conducting research at multiple sites along the coast of Nagasaki Prefecture to investigate the relationship between the biodiversity of both seaweeds and these epiphytic animals.:::
+
+
+### 野田 勉 | Noda Tsutomu - 海洋未来科学コース (D1)
+:::{.panel-tabset}
+## 日本語
+本研究は、西日本で深刻化する「磯焼け」の対策と、海藻類の増養殖技術の開発を目的としています。具体的には、磯焼けの原因とされる植食性魚類ノトイスズミに対し、褐藻類を用いた飼育試験を行って摂餌選択性や昼夜の行動差などの生態を解明し、他の植食性魚類と比較します。同時に、ヒジキの種苗生産における雑海藻除去技術を確立するため、サイズの異なるメジナとクロメジナの幼魚を用いた試験を実施し、ヒジキを残して雑海藻のみを効率的に除去できる最適な魚種とサイズを明らかにすることを計画しています。
+
+## English
+This study aims to develop countermeasures against the severe depletion of seaweed beds (isoyake) in western Japan and to advance seaweed aquaculture technologies. Specifically, the research will clarify the ecology of the herbivorous fish *Kyphosus bigibbus* (brown chub)—considered a primary cause of isoyake—by conducting feeding trials with brown algae to determine its dietary selectivity and diurnal behavioral differences, comparing these findings with other herbivorous fishes. Simultaneously, to establish a technique for removing unwanted fouling algae during *Sargassum fusiforme* (hijiki) seedling production, experiments will be conducted using juveniles of *Girella punctata* (largescale blackfish) and *Girella leonina* (smallscale blackfish) of various sizes. The goal is to identify the optimal fish species and size capable of efficiently eliminating fouling algae while leaving the hijiki seedlings intact.
 :::
 
 
-### 野田 勉 | Noda Tsutomu - 海洋生産管理学コース (D1)
+### 河田 優人 | Kawata Yuto - 海洋未来科学コース (D1)
 :::{.panel-tabset}
 ## 日本語
-調整中
+本研究は、ブルーカーボンによる脱炭素化と持続可能な水産業への貢献を目指し、褐藻類（*Costaria costata*、*Undaria pinnatifida*）の流動環境に対する生理特性を解明することで、大規模養殖に向けた効率的な種苗生産手法を確立することを目的としています。具体的には、実験室で様々な流動条件下における幼胞子体の成長や栄養塩吸収特性を評価し、粒子画像流速測定法（PIV）や流体解析（CFD）などの工学的手法を用いて実際の種苗生産工程における物理的な流動環境を最適化します。さらに、その高品質な種苗を用いて実海域での養殖試験を行い、環境要因との相互作用や最終的なバイオマス収量への効果を検証することで、生物学と工学を融合させた実用的な海藻の大量生産システムを提唱します。
 
 ## English
-Under construction
+This study aims to establish an efficient seedling production method for large-scale aquaculture by elucidating the physiological responses of brown algae (*Costaria costata* and *Undaria pinnatifida*) to fluid environments, thereby contributing to blue carbon initiatives and sustainable fisheries. Specifically, the research will first evaluate the growth and nutrient absorption characteristics of juvenile sporophytes under various fluid conditions in the laboratory. Next, it will optimize the physical fluid environment during the actual seedling production process using engineering techniques such as Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD). Furthermore, by conducting open-ocean aquaculture trials with these high-quality seedlings to verify their interaction with environmental factors and their impact on the final biomass yield, the study will propose a practical, mass-production system for seaweed that integrates biology and engineering.
 :::
 
 
-### 河田 優人 | Kawata Yuto - 海洋生産管理学コース (D1)
-:::{.panel-tabset}
-## 日本語
-調整中
-
-## English
-Under construction
-:::
-
-
-### Maquirang, Jean Rose H. | マキラン・ジーン・ローズ - 海洋生産管理学コース (M2)
+### Maquirang, Jean Rose H. | マキラン・ジーン・ローズ - 海洋未来科学コース (M2)
 :::{.panel-tabset}
 ## 日本語
 ブルーカーボン生態系としての海藻（*Cladosiphon okaramanus*）養殖の可能性に関する研究は、ほとんど未開拓のままです。 そのため、私の研究の焦点は、海藻養殖による炭素隔離のダイナミクスと気候変動緩和への貢献を理解することにあります。
@@ -101,7 +100,7 @@ Research on the potential of seaweed (*Cladosiphon okamuranus*) aquaculture as a
 :::
 
 
-### 安斎 輝 | Ansai Hikaru - 海洋生産管理学コース (M2)
+### 安斎 輝 | Ansai Hikaru - 海洋未来科学コース (M2)
 :::{.panel-tabset}
 ## 日本語
 藻場は多くの二酸化炭素を吸収し、その一部を溶存態有機炭素(DOC)として放出しています。藻場のDOC動態を理解することはブルーカーボンを理解するうえで非常に重要です。 本研究では様々な植生の藻場のDOCの量、組成について研究を行い、植生の違いによってDOCの量、組成に違いがあるのかを明らかにすることを目的としています。
@@ -110,7 +109,7 @@ Research on the potential of seaweed (*Cladosiphon okamuranus*) aquaculture as a
 Macrophyte beds absorb a large amount of carbon dioxide and release a portion of it as dissolved organic carbon (DOC). Understanding DOC dynamics in these beds is crucial for understanding blue carbon. The objective of this study is to investigate the amount and composition of DOC in macrophyte beds with various vegetation types, to clarify whether differences in vegetation lead to differences in DOC quantity and composition.
 :::
 
-### 高島 望 | Takashima Nozomu - 海洋生産管理学コース (M2)
+### 高島 望 | Takashima Nozomu - 海洋未来科学コース (M2)
 :::{.panel-tabset}
 ## 日本語
 地下環境に埋没した海洋ごみが、アマモの生活史や藻場の拡大に及ぼす影響について研究しています。
@@ -120,7 +119,7 @@ I am researching the effects of marine debris buried in subterranean environment
 :::
 
 
-### 植村 友香 | Uemura Yuka - 海洋生物科学コース (M1)
+### 植村 友香 | Uemura Yuka - 海洋未来科学コース (M1)
 :::{.panel-tabset}
 ## 日本語
 堆積物に存在するプラスチックごみが堆積物中のＴＯＣにどのような影響を及ぼすかを研究しています。
@@ -130,7 +129,7 @@ I am researching how plastic debris present in sediments affects Total Organic C
 :::
 
 
-### 木村 穂高 | Kimura Hotaka - 海洋生物科学コース (M1)
+### 木村 穂高 | Kimura Hotaka - 海洋未来科学コース (M1)
 :::{.panel-tabset}
 ## 日本語
 海洋ゴミの蓄積位置とその環境要因について調査しています。
@@ -140,7 +139,7 @@ I am investigating the accumulation locations of marine debris and their environ
 :::
 
 
-### 加藤 大智 |Kato Taichi - 海洋環境科学コース (M1)
+### 加藤 大智 |Kato Taichi - 海洋未来科学コース (M1)
 :::{.panel-tabset}
 ## 日本語
 堆積物中の海藻バイオマス量とTOC・eDNAは比例するかどうかを研究しています。 未定
@@ -150,7 +149,7 @@ I am researching whether the amount of seaweed biomass in sediments is proportio
 :::
 
 
-### 田中 瑛大 | Tanaka Akito - 海洋 (B4)
+### 田中 瑛大 | Tanaka Akito - 水圏生命科学コース (B4)
 :::{.panel-tabset}
 ## 日本語
 調整中
@@ -160,7 +159,7 @@ Under construction
 :::
 
 
-### 中西 洸 |  Nakanishi Koh- 海洋 (B4)
+### 中西 洸 |  Nakanishi Koh- 水圏生命科学コース (B4)
 :::{.panel-tabset}
 ## 日本語
 調整中
@@ -170,7 +169,7 @@ Under construction
 :::
 
 
-### 中辻 吉郎 | Nakatsuji Yoshiro - 海洋 (B4)
+### 中辻 吉郎 | Nakatsuji Yoshiro - 水圏環境資源コース (B4)
 :::{.panel-tabset}
 ## 日本語
 調整中
